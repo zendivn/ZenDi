@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+-- discord.gg/zendivn
 
 
 shared.LoaderTitle = "Đăng Ký Kênh ZenDi";
@@ -9327,4 +9327,5 @@ v14:Notify({
     Title = "ZenDi Hub",
     Content = "Tải Xong",
     Duration = 10
+
 });
